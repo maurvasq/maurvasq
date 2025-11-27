@@ -59,6 +59,9 @@ Interesting...
 - Open Route Service API: https://openrouteservice.org/
 - TomTom API: https://developer.tomtom.com/
 - CodePen: https://codepen.io/
+- Report Lb: https://insights.datylon.com/inspiration
+- Regex: https://regex101.com/
+- The Information Lab: https://www.theinformationlab.com/community-resources/dataskills/
 
 <div align="center">
     
