@@ -62,6 +62,7 @@ Interesting...
 - Report Lb: https://insights.datylon.com/inspiration
 - Regex: https://regex101.com/
 - The Information Lab: https://www.theinformationlab.com/community-resources/dataskills/
+- FormulaBot: https://www.formulabot.com/
 
 <div align="center">
     
